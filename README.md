@@ -1,9 +1,7 @@
 <div dir="rtl" style="direction: rtl; unicode-bidi: isolate; text-align: right;">
 
 <p dir="ltr">
-<a href="https://doi.org/10.5281/zenodo.18393834">
-<img src="https://zenodo.org/badge/1124798610.svg" alt="DOI">
-</a>
+<a href="https://doi.org/10.5281/zenodo.18793074"><img src="https://zenodo.org/badge/1158698251.svg" alt="DOI"></a>
 </p>
 
 <h1>الوحدة M4 – العلم المفتوح لصحة التربة</h1>
